@@ -1,3 +1,6 @@
 *.classpath
 *.metadata
 CVSTest_ODP/
+test-repo/.hg/hgrc
+test-repo/.hg/requires
+test-repo/.hg/sourcetreeconfig
